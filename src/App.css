@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+ul{
+  list-style-type: none;
+}
+
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
